@@ -1,0 +1,7 @@
+
+# 下面这些路径是固定的，都不要改，只改上面的'path'
+train: /home/dell/桌面/sdd/redetr_m3fd/detr_m3fd/images/train  # train images (relative to 'path') 128 images
+train_infrared:  /home/dell/桌面/sdd/redetr_m3fd/detr_m3fd/image/train # 红外图路径
+val: /home/dell/桌面/sdd/redetr_m3fd/detr_m3fd/images/test # val images (relative to 'path'llvip) 128 images
+
+names: ['person', 'car', 'bus','moto','lamp', 'truck']
